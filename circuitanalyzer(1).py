@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UDRbv5xSMXYB7NRo-ucuFt6WvavidFqo
 """
 
-═
+
 !pip install qiskit qiskit-aer matplotlib networkx seaborn scipy -q
 print("✅ Dependencies installed")
 
